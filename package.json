@@ -1,0 +1,17 @@
+{
+  "author": "John Beppu",
+  "name": "authentic-server",
+  "description": "A composable Express.js app for all your authentication needs.",
+  "version": "0.0.1",
+  "homepage": "",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": "~0.6.10 || 0.8 || 0.9"
+  },
+  "dependencies": {
+  },
+  "devDependencies": {}
+}
