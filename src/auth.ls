@@ -6,15 +6,15 @@ require! {
   \bcrypt
   \crypto
   \debug
-  \nodemailer
-  \passport
-  \passport-local
-  \passport-facebook
-  \passport-twitter
-  \passport-google-oauth
-  h: \./server-helpers
-  pg: \./postgres
-  passport.Passport
+# \nodemailer
+# \passport
+# \passport-local
+# \passport-facebook
+# \passport-twitter
+# \passport-google-oauth
+# h: \./server-helpers
+# pg: \./postgres
+# passport.Passport
 }
 
 log = debug 'auth'
